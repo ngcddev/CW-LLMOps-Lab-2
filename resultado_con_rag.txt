@@ -1,0 +1,30 @@
+﻿=== Prompt 1 (Conocimiento privado) ===
+Pregunta: ¿De cuánto es el auxilio de conectividad para teletrabajo en 2027 en Innovatech Colombia y cuál es el código interno para solicitarlo?
+Fragmentos (score): 0,792, 0,636
+Respuesta:
+El auxilio de conectividad para teletrabajo en 2027 en Innovatech Colombia es de $245.000 COP. El código interno para solicitar este reembolso en el portal financiero es #INV-CON-2027.
+
+=== Dato Exacto ===
+Pregunta: ¿Cuánto es el auxilio de conectividad 2027 y cuál es su código?
+Fragmentos (score): 0,786, 0,631
+Respuesta:
+El auxilio de conectividad para 2027 es de $245.000 COP y su código interno para solicitarlo en el portal financiero es #INV-CON-2027.
+
+=== Condicional / Rol ===
+Pregunta: Llevo 8 meses en la empresa, ¿cuántos días de vacaciones anticipadas puedo pedir y quién gestiona RRHH?
+Fragmentos (score): 0,684, 0,580
+Respuesta:
+Según la política de vacaciones anticipadas mencionada en el contexto, los empleados con más de 6 meses y menos de 1 año de vinculación continua podrán solicitar hasta un máximo de 7 días hábiles de vacaciones anticipadas. La gestión de la política de RRHH es la de la directora Laura Martínez.
+
+=== Protocolo Tecnico ===
+Pregunta: Detecté una fuga en AWS, ¿en cuánto tiempo debo reportarla, a qué canal y qué cifrado exige la norma?
+Fragmentos (score): 0,751, 0,627
+Respuesta:
+Según el documento, para detectar una fuga en AWS, debe reportarla en un plazo inferior a 2 horas al canal de emergencia interno de Slack: #sec-incidentes-urgente o llamando a la extensión interna 809. Además, la norma exige cifrado AES-256 para bases de datos sensibles.
+
+=== Anti-Alucinacion ===
+Pregunta: ¿Cuál es el horario de atención de la cafetería los sábados en Innovatech?
+Fragmentos (score): 0,575, 0,563
+Respuesta:
+El horario de atención de la cafetería los sábados en Innovatech es de 10:00 a 14:00 horas.
+
